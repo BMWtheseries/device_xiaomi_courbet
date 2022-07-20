@@ -158,7 +158,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.display.allocator-service
 
 PRODUCT_PACKAGES += \
-    libgui_vendor
+    libgui_vendor \
+    libsdmcore-shim
 
 PRODUCT_PACKAGES += \
     gralloc.sm6150 \
