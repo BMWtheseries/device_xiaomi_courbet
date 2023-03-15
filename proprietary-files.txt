@@ -1,4 +1,5 @@
 # These proprietary files are extracted from courbet MIUI 14.0.2.0.SKQMIXM, unless pinned
+# renoir: 22.5.11
 
 # ACDB loader
 vendor/lib/libacdb-fts.so
@@ -839,7 +840,9 @@ system_ext/lib64/vendor.qti.ims.rcsconfig@2.0.so|662bccc5d4b40a79a47928c8957bfdf
 system_ext/lib64/vendor.qti.ims.rcsconfig@2.1.so|bdb530a365806b33effe0fea03f181decb20c2ae
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so|ace5e02b6cd79b43a07d84e2d18d6818821a3c48
 system_ext/lib64/vendor.qti.imsrtpservice@3.1.so|e64aa8a21a8db69d2e2ea14929bb20ced99c119d
--system_ext/priv-app/ims/ims.apk|711e542958c1d05d18ec84984c495a3d607ec9bb
+
+# Radio - IMS from renoir
+-system_ext/priv-app/ims/ims.apk|f0d834acbc77e7830459e0246f5073e1b9ba8657
 
 # Radio - IMS (vendor)
 vendor/bin/ims_rtp_daemon
